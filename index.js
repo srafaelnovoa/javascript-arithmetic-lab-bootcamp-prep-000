@@ -10,3 +10,7 @@ function multiply(a,b){
 function divide(a,b){
   return parseInt(a)/parseInt(b)
 }
+function dec(n){
+  n = (parseInt(n)) - 1
+  return n
+}

@@ -14,3 +14,6 @@ function dec(n){
   n = (parseInt(n)) - 1
   return n
 }
+function inc(n) {
+  return n++
+}

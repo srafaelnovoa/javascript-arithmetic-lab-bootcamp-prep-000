@@ -1,3 +1,7 @@
-function add(x,y){
-  return parseInt(x) + parseInt(y)
+function add(a,b){
+  return parseInt(a) + parseInt(b)
 }
+function subtract(a,b){
+  return parseInt(a) - parseInt(b)
+}
+
